@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fNhMC00CFnqCF5/g6eh5bE+lVLn7pOiIshvHbD+sIhq4P7EFNRjetVJVsisYgn87nDOrUtkGz+WE3LzUomrfZw==",
+  "success": true,
+  "projectFilePath": "/Users/shaunakg/Documents/jland/CSNET/main (macOS)/main (macOS)/main (macOS).csproj",
+  "expectedPackageFiles": [
+    "/Users/shaunakg/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/7.0.11/microsoft.aspnetcore.app.runtime.osx-x64.7.0.11.nupkg.sha512",
+    "/Users/shaunakg/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/7.0.11/microsoft.netcore.app.runtime.osx-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
