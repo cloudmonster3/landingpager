@@ -1,5 +1,6 @@
 {
   "workspace.art_style" : 1,
   "workspace.color" : 13,
-  "workspace.name" : "landingpager"
+  "workspace.name" : "landingpager",
+  "workspace.preview_server_allow_external" : true
 }
