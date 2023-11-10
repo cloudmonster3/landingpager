@@ -1,4 +1,6 @@
 {
+  "VineCode.Sass.outputPath" : "\/css\/",
+  "VineCode.Sass.updatePath" : "\/css\/",
   "workspace.art_style" : 1,
   "workspace.color" : 13,
   "workspace.name" : "landingpager",
