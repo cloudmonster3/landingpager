@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shaunakg/Documents/jland/ASP.NET/main/main/main.csproj": {}
+    "/Users/shaunakg/Documents/landingpager/ASP.NET/main/main/main.csproj": {}
   },
   "projects": {
-    "/Users/shaunakg/Documents/jland/ASP.NET/main/main/main.csproj": {
+    "/Users/shaunakg/Documents/landingpager/ASP.NET/main/main/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shaunakg/Documents/jland/ASP.NET/main/main/main.csproj",
+        "projectUniqueName": "/Users/shaunakg/Documents/landingpager/ASP.NET/main/main/main.csproj",
         "projectName": "main",
-        "projectPath": "/Users/shaunakg/Documents/jland/ASP.NET/main/main/main.csproj",
+        "projectPath": "/Users/shaunakg/Documents/landingpager/ASP.NET/main/main/main.csproj",
         "packagesPath": "/Users/shaunakg/.nuget/packages/",
-        "outputPath": "/Users/shaunakg/Documents/jland/ASP.NET/main/main/obj/",
+        "outputPath": "/Users/shaunakg/Documents/landingpager/ASP.NET/main/main/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shaunakg/.nuget/NuGet/NuGet.Config"
