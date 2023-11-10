@@ -1,6 +1,7 @@
-// alert the user when pressed.
+// BUTTON FUNCTIONS
 // to use these functions in code:
 // <button type="button" onclick="INSERT_FUNCTION_NAME">BUTTON_NAME</button>
+// alert the user when pressed.
 function button_alert(print) {
 	alert(print);
 }
@@ -16,6 +17,29 @@ function button_prompt(prompt, answer, response, nullresponse) {
 	}
 }
 
-function text_colour(colour1, colour2, id) {
+// GETELEMENTBYID FUNCTIONS
+// example:
+// <p id="para">hello world</p>
+// <button type="button" onclick="change_colour(#549d33ce, para)">
+// change the specified text to a 
+// specified colour
+
+function change_colour(colour, id) {
 	const element = document.getElementById(id);
+	element.style.color = colour;
+}
+
+// change text to a random number
+function rand_number(range, id) {
+	var random = Math.floor(Math.random() * range);
+	const string = random.toString();
+	const element = document.getElementById(id);
+	element.innerHTML = string;
+}
+
+// change text to a new specified string
+// recommended max chars = 1000
+function change_text(newtext, id) {
+	const element = document.getElementById(id);
+	element.innerHTML = newtext;
 }
