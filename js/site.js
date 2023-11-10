@@ -1,3 +1,10 @@
+//
+//	site.js
+//	landingpager
+//
+//	Created by Shaunak Ghosh on 10/11/2023.
+//
+
 // BUTTON FUNCTIONS
 // to use these functions in code:
 // <button type="button" onclick="INSERT_FUNCTION_NAME">BUTTON_NAME</button>
