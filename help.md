@@ -188,3 +188,6 @@ Dark:
 The rest will be done for you and will  
 adapt natually to the size and length of the  
 text.
+
+thanks for using landingpager!
+hope you come again!
