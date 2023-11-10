@@ -32,7 +32,7 @@ function change_colour(colour, id) {
 // change text to a random number
 function rand_number(range, id) {
 	var random = Math.floor(Math.random() * range);
-	const string = random.toString();
+	let string = random.toString();
 	const element = document.getElementById(id);
 	element.innerHTML = string;
 }
