@@ -13,6 +13,8 @@
   overflow: hidden;
   margin: 2rem;
   box-shadow: 5px 5px 5px 5px #000;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
   border-radius: 0.5rem;
   /* using the mixins function */
 }
@@ -224,4 +226,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-}/*# sourceMappingURL=main.css.map */
+}
+
+/*# sourceMappingURL=main.css.map */
